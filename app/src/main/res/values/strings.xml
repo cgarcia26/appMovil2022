@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">appMovil</string>
+    <string name="textSingUp">Crear Cuenta</string>
+    <string name="textForgetPass">Administrar Cuenta</string>
+    <string name="textFirstName">Nombre</string>
+    <string name="editTextFirstName">John</string>
+    <string name="textLastName">Apellido</string>
+    <string name="editTextLastName">Doe</string>
+    <string name="textEmail">Correo</string>
+    <string name="editTextEmail">john.doe@email.com</string>
+    <string name="textPassword">Contraseña</string>
+    <string name="textPasswordConf">Confirmar Contraseña</string>
+    <string name="buttonSingUp">Registrarse</string>
+    <string name="textPolCond">Al registrarse acepta los terminos y condiciones</string>
+    <string name="textLogin">Bienvenido</string>
+    <string name="textLoginInfo">Por favor ingrese con su cuenta</string>
+    <string name="textUser">Usuario / Correo</string>
+    <string name="buttonLogin">Iniciar Sesión</string>
+    <string name="textForgetPassword">Olvide la contraseña</string>
+    <string name="buttonCreate">Crear cuenta</string>
+    <string name="textForgetPassInfo">Ingresar el correo para iniciar el proceso de administración</string>
+    <string name="buttonSearch">Buscar</string>
+    <string name="buttonEdit">Editar</string>
+    <string name="buttonDelete">Eliminar</string>
+    <string name="buttonShowHide">Ver</string>
+    <string name="textCategory">Categoria</string>
+    <string name="textApp">App</string>
+    <string name="textSummary">Resumen</string>
+</resources>
